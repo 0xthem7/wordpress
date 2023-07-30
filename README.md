@@ -1,6 +1,7 @@
+![Banner](/images/7.png "banner")
+
 # wordpress
 If you can find vulnerability find it 
-
 
 ### Useful information 
 * Once you have completely setup the wordpress you can login using
