@@ -1,6 +1,16 @@
 # wordpress
 If you can find vulnerability find it 
 
+
+### Useful information 
+* Once you have completely setup the wordpress you can login using
+**username : theM7 
+password : Password123
+**
+
+* Submit the screenshot of executing the vulnerability to 0xthem7@gmail.com  **there is no flag you have to find bugs not flags **
+
+
 # How to setup the lab
 
 * Make sure your databases are up and running fine
@@ -29,4 +39,10 @@ Note the database name and table name
 * Now make changes according to the creds we get from mysql
 ![Database wordpress](/images/6.png "Changes")
 
+* Fill the data and you are ready to go
+![Database login](/images/7.png "Image")
 
+
+* Run the server using
+
+`php -S 127.0.0.1:8080 -t . ` 
